@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: chai-app
-          image: pkmadhubani/chai-app
+          image: pkmadhubani/chai-apppp
           ports:
             - containerPort: 80
           resources:
